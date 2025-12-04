@@ -1,0 +1,27 @@
+flip_idx:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+kpt_shape:
+- 12
+- 3
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: deadlift-form-assessment-system-4luqm
+  url: https://universe.roboflow.com/dataset-for-deadlift-form-assessment-system-using-computer-vision-and-yolov8pose/deadlift-form-assessment-system-4luqm/dataset/2
+  version: 2
+  workspace: dataset-for-deadlift-form-assessment-system-using-computer-vision-and-yolov8pose
+train: c:\Users\nghia\Documents\GitHub\gym-pose-estimation-project-2025\Deadlift_Form_Analysis_YoloV8\Deadlift-Form-Assessment-System-2\train\images
+val: c:\Users\nghia\Documents\GitHub\gym-pose-estimation-project-2025\Deadlift_Form_Analysis_YoloV8\Deadlift-Form-Assessment-System-2\train\images
